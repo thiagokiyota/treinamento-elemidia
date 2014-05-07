@@ -25,7 +25,7 @@ class Financeiro
     {
         // ... implementação de pagamento de fatura
 
-        // Aqui será utilizado seu compomente de log
+        // Aqui será utilizado seu componente de log
     }
 }
 ```
@@ -37,7 +37,7 @@ class Email
     {
         // ... implementação de envio de email
 
-        // Aqui será utilizado seu compomente de log
+        // Aqui será utilizado seu componente de log
     }
 }
 ```
@@ -49,7 +49,7 @@ class Autenticacao
     {
         // ... implementação de autenticação
 
-        // Aqui será utilizado seu compomente de log
+        // Aqui será utilizado seu componente de log
     }
 }
 ```
