@@ -1,4 +1,8 @@
-# Design Pattern - Estrutural - Composite
+# Design Pattern
+
+## Estrutural 
+
+### Composite
 
 Utilizando a estrutura do pattern Composite, você deverá construir um componente 
 de sistemas de arquivos, onde, seja possível criar uma pasta e adicionar novos
