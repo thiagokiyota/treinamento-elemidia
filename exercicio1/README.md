@@ -6,7 +6,7 @@ arquivos e novas pastas, a estrutura de direorios a ser representada como teste
 está anexada abaixo, a a saída na tela ou no novegador deve ser a seguinte, onde 
 cada '-' define a "profundidade" do arquivo ou pasta.
 
-`
+```
 -Elemidia1
 --arquivo1.txt
 --arquivo2.txt
@@ -16,4 +16,4 @@ cada '-' define a "profundidade" do arquivo ou pasta.
 ----arquivo1.txt
 ----arquivo2.txt
 ----arquivo3.txt
-`
+```
