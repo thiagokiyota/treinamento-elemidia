@@ -19,4 +19,4 @@ cada '-' define a "profundidade" do arquivo ou pasta.
 ```
 
 Estrutura de Diretórios:
-![alt text](https://github.com/italodom/treinamento-elemidia/blob/master/exercicio1/public/estrutura_diretorios.png "Estrutura de Diretórios")
+![alt text](https://rawgit.com/italodom/treinamento-elemidia/master/exercicio1/public/estrutura_diretorios.png "Estrutura de Diretórios")
