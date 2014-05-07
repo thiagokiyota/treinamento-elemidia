@@ -17,3 +17,6 @@ cada '-' define a "profundidade" do arquivo ou pasta.
 ----arquivo2.txt
 ----arquivo3.txt
 ```
+
+Estrutura de Diretórios:
+![alt text](https://github.com/italodom/treinamento-elemidia/blob/master/exercicio1/public/estrutura_diretorios.png)
