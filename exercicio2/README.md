@@ -23,7 +23,7 @@ class Financeiro
 {
     public function pagarFatura()
     {
-        // ... implementação
+        // ... implementação de pagamento de fatura
 
         // Aqui será utilizado seu compomente de log
     }
@@ -35,7 +35,7 @@ class Email
 {
     public function enviarEmail()
     {
-        // ... implementação
+        // ... implementação de envio de email
 
         // Aqui será utilizado seu compomente de log
     }
@@ -47,7 +47,7 @@ class Autenticacao
 {
     public function autenticar()
     {
-        // ... implementação
+        // ... implementação de autenticação
 
         // Aqui será utilizado seu compomente de log
     }
