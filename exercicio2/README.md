@@ -9,7 +9,7 @@ um componente para registrar logs do sistema, esse logs poderão ser do tipo: DE
 ERROR, WARNING e INFO.
 
 Considerando que para logs, você deverá ter somente uma instância em todo o sistema,
-mais você poderá ter várias formas de armazenar esses logs, a princípio será
+mais poderá ter várias formas de armazenar esses logs, a princípio será
 armazenado apenas como sistema de arquivos e posteriormente em um serviço RESTful.
 
 Alguns sistema irão utilizar seu componente, porém, quando você migrar para RESTful, 
