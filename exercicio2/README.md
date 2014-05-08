@@ -1,20 +1,40 @@
 # Design Pattern
 
-## Criação 
+## Criação
 
-### Singleton e Factory Method
+### Singleton, Factory Method, AbstractFactory, Prototype e Builder
 
-Utilizando a estrutura do pattern Singleton e Factory Method, você deverá construir 
-um componente para registrar logs do sistema, esse logs poderão ser do tipo: DEBUG,
-ERROR, WARNING e INFO.
+Utilizando a estrutura dos patterns de criação, você deverá construir um
+componente para registrar logs de sistema, esse logs poderão ser do tipo:
+ERROR e WARNING.
 
 Considerando que para logs, você deverá ter somente uma instância em todo o sistema,
-mais poderá ter várias formas de armazenar esses logs, a princípio será
-armazenado apenas como sistema de arquivos e posteriormente em um serviço RESTful.
+mais poderá ter várias formas de armazenar esses logs, você deve prever isso
+em seu projeto, a princípio será armazenado apenas como sistema de arquivos.
 
-Alguns sistema irão utilizar seu componente, porém, quando você migrar para RESTful, 
-todos esses sistemas não poderão sofrer alteração, a migração deverá ser transparente 
-para todos os clientes. 
+Você deverá disponibilizar um gerenciador de logs onde seja possível visualizar
+uma lista de logs podendo filtrá-los por seus tipos. Nesse gerenciador
+deverá possuir também uma tela que seja mostrada a porcentagem de cada tipo de log
+registrado.
+
+O gerenciador poderá ter seu tema customizado, sendo assim, deverá prever esse
+recurso.
+
+Alguns sistemas irão utilizar seu componente e em breve ele sofrerá um upgrade,
+porém, todos os clientes que utilizam seu componente não poderão sofrer alterações.
+
+UPGRADE ------------------------------------------------------------------------
+
+Seu componente está funcionando perfeitamente, mais surgiu uma nova necessidade
+no qual você deverá considerar. Deverá ser adicionado mais 2 tipos de logs: DEBUG e
+INFO.
+
+O armazenamento de logs deverá ter suporte também a base de dados e o gerenciador
+deverá mostrar a lista e a porcentagem de registro desses novos logs.
+
+Como sempre, esse novo recurso deverá ser implementado o mais rápido possível.
+
+UPGRADE ------------------------------------------------------------------------
 
 Abaixo estão alguns exemplos de clientes que utilizarão seu componente.
 
