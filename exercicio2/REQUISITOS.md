@@ -4,12 +4,12 @@
 
 ### Requisitos
 
-R001 - Registrar logs com suporte aos tipos ERROR e WARNING
-R002 - O Log poderá ser armazenados de formas diferentes, as básicas serão TXT e XML
-R003 - Possuir um gerenciador disponibilizar uma tela para listar todos os logs registrados
-R004 - Na tela de listagem de logs, disponibilizar um filtro de logs por tipo
-R005 - Possuir uma tela no gerenciador para visualizar a porcentagem de logs registrados por tipo
-R006 - O gerenciador poderá ter seu tema customizado por qualquer cliente
+* R001 - Registrar logs com suporte aos tipos ERROR e WARNING
+* R002 - O Log poderá ser armazenados de formas diferentes, as básicas serão TXT e XML
+* R003 - Possuir um gerenciador disponibilizar uma tela para listar todos os logs registrados
+* R004 - Na tela de listagem de logs, disponibilizar um filtro de logs por tipo
+* R005 - Possuir uma tela no gerenciador para visualizar a porcentagem de logs registrados por tipo
+* R006 - O gerenciador poderá ter seu tema customizado por qualquer cliente
 
 ### Casos de Uso
 
