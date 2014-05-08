@@ -10,7 +10,7 @@ ERROR e WARNING.
 
 Considerando que para logs, você deverá ter somente uma instância em todo o sistema,
 mais poderá ter várias formas de armazenar esses logs, você deve prever isso
-em seu projeto, a princípio será armazenado apenas como sistema de arquivos.
+em seu projeto, a princípio será armazenado apenas como sistema de arquivos TXT e XML.
 
 Você deverá disponibilizar um gerenciador de logs onde seja possível visualizar
 uma lista de logs podendo filtrá-los por seus tipos. Nesse gerenciador
