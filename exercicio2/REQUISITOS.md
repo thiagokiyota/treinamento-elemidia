@@ -32,8 +32,7 @@ nome e diretório já deverão estar configurados.
 
 ##### Caminhos
 
-1. O cliente deverá chamar um método do componente de logs que represente seu
-tipo e passar uma mensagem
+1. O cliente deverá chamar um método do componente de logs que represente seu tipo e passar uma mensagem
 1.1 Se o tipo não existir, lançar um alerta
 
 #### Listar logs [R003]
