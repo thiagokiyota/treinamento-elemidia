@@ -17,4 +17,4 @@
 2. Listar logs [R003]
 3. Filtrar logs por tipo [R004]
 4. Mostrar porcentagem de logs registrados por tipo [R005]
-5. Customizar tema do gerenciador
+5. Customizar tema do gerenciador [R006]
