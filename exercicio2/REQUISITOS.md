@@ -32,9 +32,9 @@ nome e diretório já deverão estar configurados.
 
 ##### Caminhos
 
-1. O cliente deverá chamar um método do componente de logs que represente seu tipo e passar uma mensagem
+1) O cliente deverá chamar um método do componente de logs que represente seu tipo e passar uma mensagem
 
-1.1 Se o tipo não existir, lançar um alerta
+1,1) Se o tipo não existir, lançar um alerta
 
 #### Listar logs [R003]
 
@@ -44,8 +44,9 @@ nome e diretório já deverão estar configurados.
 
 ##### Caminhos
 
-1. Selecionar a tela de listagem de logs
-1.1 Se não existir logs registrados, lançar um alerta
+1) Selecionar a tela de listagem de logs
+
+1,1) Se não existir logs registrados, lançar um alerta
 
 #### Filtrar logs por tipo [R004]
 
@@ -55,9 +56,11 @@ nome e diretório já deverão estar configurados.
 
 ##### Caminhos
 
-1. Selecionar a tela de listagem de logs
-2. Selecionar tipo de log a ser filtrado
-2.1 Se não existir logs do tipo selecionado, lançar um alerta
+1) Selecionar a tela de listagem de logs
+
+2) Selecionar tipo de log a ser filtrado
+
+2,1) Se não existir logs do tipo selecionado, lançar um alerta
 
 #### Mostrar porcentagem de logs registrados por tipo [R005]
 
@@ -67,8 +70,9 @@ nome e diretório já deverão estar configurados.
 
 ##### Caminhos
 
-1. Selecionar tela com a porcentagem de logs registrados por tipo
-1.1 Se não existir logs registrados, lançar um alerta
+1) Selecionar tela com a porcentagem de logs registrados por tipo
+
+1,1) Se não existir logs registrados, lançar um alerta
 
 #### Customizar tema do gerenciador [R006]
 
@@ -78,5 +82,6 @@ nome e diretório já deverão estar configurados.
 
 ##### Caminhos
 
-1. Selecionar a tela de listagem de logs ou tela de porcentagem de logs
-2. Selecionar tema e aplicar
+1) Selecionar a tela de listagem de logs ou tela de porcentagem de logs
+
+2) Selecionar tema e aplicar
