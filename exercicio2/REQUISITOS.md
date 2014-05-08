@@ -19,6 +19,8 @@
 4. Mostrar porcentagem de logs registrados por tipo [R005]
 5. Customizar tema do gerenciador [R006]
 
+***
+
 ### Detalhamento dos casos de uso
 
 #### Registrar logs [R001, R002]
