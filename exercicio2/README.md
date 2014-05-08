@@ -23,19 +23,6 @@ recurso.
 Alguns sistemas irão utilizar seu componente e em breve ele sofrerá um upgrade,
 porém, todos os clientes que utilizam seu componente não poderão sofrer alterações.
 
-UPGRADE ------------------------------------------------------------------------
-
-Seu componente está funcionando perfeitamente, mais surgiu uma nova necessidade
-no qual você deverá considerar. Deverá ser adicionado mais 2 tipos de logs: DEBUG e
-INFO.
-
-O armazenamento de logs deverá ter suporte também a base de dados e o gerenciador
-deverá mostrar a lista e a porcentagem de registro desses novos logs.
-
-Como sempre, esse novo recurso deverá ser implementado o mais rápido possível.
-
-UPGRADE ------------------------------------------------------------------------
-
 Abaixo estão alguns exemplos de clientes que utilizarão seu componente.
 
 ```PHP
